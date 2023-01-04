@@ -9,7 +9,7 @@
 
 </div>
 
-## [Link to React App](https://github.com/PRATAP-KUMAR/hello-rails-front-end/tree/feature/app)
+[Link to PR with Changes](https://github.com/PRATAP-KUMAR/hello-rails-back-end/pull/1/files)
 
 <!-- TABLE OF CONTENTS -->
 
